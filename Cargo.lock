@@ -8403,6 +8403,7 @@ dependencies = [
  "lmdb",
  "project",
  "settings",
+ "sha2 0.10.7",
  "smol",
  "tempfile",
  "util",

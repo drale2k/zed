@@ -8482,6 +8482,7 @@ name = "semantic_index"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "async-trait",
  "client",
  "collections",
  "env_logger",
@@ -8493,6 +8494,8 @@ dependencies = [
  "language",
  "languages",
  "project",
+ "serde",
+ "serde_json",
  "settings",
  "sha2 0.10.7",
  "smol",
